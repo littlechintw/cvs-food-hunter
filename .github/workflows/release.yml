@@ -34,7 +34,7 @@ jobs:
         uses: subosito/flutter-action@v2
         with:
           channel: 'stable'
-          flutter-version: '3.19.0' # 使用較新的穩定版本
+          # flutter-version: '3.19.0' # 移除固定版本，使用最新穩定版以支援 Dart 3.10+
 
       - name: Get dependencies
         run: flutter pub get
