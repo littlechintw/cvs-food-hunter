@@ -1,0 +1,550 @@
+{
+  "query_time": "2025-12-11T12:03:24.145005",
+  "location": {
+    "latitude": 25.0551024,
+    "longitude": 121.5489844,
+    "description": "我的位置"
+  },
+  "search_settings": {
+    "max_distance_meters": 300,
+    "max_stores": 10
+  },
+  "seven_eleven": [
+    {
+      "brand": "7-11",
+      "store_no": "254649",
+      "store_name": "7-11 敦北門市",
+      "distance": 129.41,
+      "total_qty": 7,
+      "categories": [
+        {
+          "name": "涼麵",
+          "qty": 1
+        },
+        {
+          "name": "湯麵",
+          "qty": 2
+        },
+        {
+          "name": "義大利麵",
+          "qty": 1
+        },
+        {
+          "name": "4℃加熱飯糰",
+          "qty": 1
+        },
+        {
+          "name": "燴飯",
+          "qty": 2
+        }
+      ],
+      "items": [
+        {
+          "name": "北海道蕎麥風味沾麵",
+          "qty": 1,
+          "category": "涼麵"
+        },
+        {
+          "name": "極饗-麻油雞麵線",
+          "qty": 1,
+          "category": "湯麵"
+        },
+        {
+          "name": "加賀屋-牛肉烏龍麵",
+          "qty": 1,
+          "category": "湯麵"
+        },
+        {
+          "name": "晶華-蒜香菲力牛義大利麵",
+          "qty": 1,
+          "category": "義大利麵"
+        },
+        {
+          "name": "加賀屋-海鮮天丼握便當",
+          "qty": 1,
+          "category": "4℃加熱飯糰"
+        },
+        {
+          "name": "爪哇咖哩豬肉飯",
+          "qty": 2,
+          "category": "燴飯"
+        }
+      ],
+      "address": "台北市松山區敦化北路149號1樓",
+      "tel": ""
+    },
+    {
+      "brand": "7-11",
+      "store_no": "280121",
+      "store_name": "7-11 上弘門市",
+      "distance": 159.7,
+      "total_qty": 2,
+      "categories": [
+        {
+          "name": "湯麵",
+          "qty": 2
+        }
+      ],
+      "items": [
+        {
+          "name": "一風堂-叉燒豚骨拉麵",
+          "qty": 1,
+          "category": "湯麵"
+        },
+        {
+          "name": "加賀屋-牛肉烏龍麵",
+          "qty": 1,
+          "category": "湯麵"
+        }
+      ],
+      "address": "台北市松山區敦化北路168號B2",
+      "tel": ""
+    }
+  ],
+  "family_mart": [
+    {
+      "brand": "全家",
+      "store_no": "020647",
+      "store_name": "全家宏勝店",
+      "address": "台北市松山區敦化北路１５３號１樓",
+      "tel": "02-25455887",
+      "distance": 115.11,
+      "total_qty": 2,
+      "categories": [
+        {
+          "name": "飯類主食",
+          "qty": 1
+        },
+        {
+          "name": "蔬果",
+          "qty": 1
+        }
+      ],
+      "items": [
+        {
+          "name": "二配起司控培根白醬焗烤飯",
+          "qty": 1,
+          "category": "飯類主食",
+          "sub_category": "１７西式主食二配"
+        },
+        {
+          "name": "有機鴻喜菇",
+          "qty": 1,
+          "category": "蔬果",
+          "sub_category": "根莖果（免稅）"
+        }
+      ]
+    },
+    {
+      "brand": "全家",
+      "store_no": "000576",
+      "store_name": "全家宏大店",
+      "address": "台北市松山區敦化北路１５５巷３號１樓",
+      "tel": "02-27183704",
+      "distance": 126.93,
+      "total_qty": 16,
+      "categories": [
+        {
+          "name": "飯糰手卷",
+          "qty": 13
+        },
+        {
+          "name": "飯類主食",
+          "qty": 3
+        }
+      ],
+      "items": [
+        {
+          "name": "星-二配雞肉飯飯糰",
+          "qty": 4,
+          "category": "飯糰手卷",
+          "sub_category": "飯糰二配"
+        },
+        {
+          "name": "星-二配鮪魚飯糰",
+          "qty": 2,
+          "category": "飯糰手卷",
+          "sub_category": "飯糰二配"
+        },
+        {
+          "name": "二配鹽蔥燒肉飯糰",
+          "qty": 2,
+          "category": "飯糰手卷",
+          "sub_category": "飯糰二配"
+        },
+        {
+          "name": "二配明太子龍蝦風味沙拉飯糰",
+          "qty": 2,
+          "category": "飯糰手卷",
+          "sub_category": "飯糰二配"
+        },
+        {
+          "name": "二配經典肉鬆飯糰",
+          "qty": 3,
+          "category": "飯糰手卷",
+          "sub_category": "飯糰二配"
+        },
+        {
+          "name": "星-二配港式香滑嫩蛋牛肉燴飯",
+          "qty": 1,
+          "category": "飯類主食",
+          "sub_category": "１７中式主食二配"
+        },
+        {
+          "name": "二配起司控培根白醬焗烤飯",
+          "qty": 2,
+          "category": "飯類主食",
+          "sub_category": "１７西式主食二配"
+        }
+      ]
+    },
+    {
+      "brand": "全家",
+      "store_no": "001417",
+      "store_name": "全家豐興店",
+      "address": "台北市松山區民生東路三段１３０巷５弄２２號",
+      "tel": "02-25471001",
+      "distance": 279.91,
+      "total_qty": 1,
+      "categories": [
+        {
+          "name": "飯類主食",
+          "qty": 1
+        }
+      ],
+      "items": [
+        {
+          "name": "星-二配香辣醬蒜味香腸蛋炒飯",
+          "qty": 1,
+          "category": "飯類主食",
+          "sub_category": "１７中式主食二配"
+        }
+      ]
+    },
+    {
+      "brand": "全家",
+      "store_no": "004267",
+      "store_name": "全家長城店",
+      "address": "台北市松山區敦化北路１２０巷８０號",
+      "tel": "02-27176687",
+      "distance": 298.44,
+      "total_qty": 7,
+      "categories": [
+        {
+          "name": "飯糰手卷",
+          "qty": 5
+        },
+        {
+          "name": "飯類主食",
+          "qty": 2
+        }
+      ],
+      "items": [
+        {
+          "name": "二配鹽蔥燒肉飯糰",
+          "qty": 1,
+          "category": "飯糰手卷",
+          "sub_category": "飯糰二配"
+        },
+        {
+          "name": "二配芝麻香鬆飯糰",
+          "qty": 1,
+          "category": "飯糰手卷",
+          "sub_category": "飯糰二配"
+        },
+        {
+          "name": "二配蔬食鮪魚飯糰",
+          "qty": 2,
+          "category": "飯糰手卷",
+          "sub_category": "飯糰二配"
+        },
+        {
+          "name": "二配油蔥G絲飯糰",
+          "qty": 1,
+          "category": "飯糰手卷",
+          "sub_category": "飯糰二配"
+        },
+        {
+          "name": "二配黃金雞排蘑菇白醬歐姆蛋飯",
+          "qty": 1,
+          "category": "飯類主食",
+          "sub_category": "１７西式主食二配"
+        },
+        {
+          "name": "二配乳酪燻腸紅醬焗飯",
+          "qty": 1,
+          "category": "飯類主食",
+          "sub_category": "１７西式主食二配"
+        }
+      ]
+    }
+  ],
+  "all_stores": [
+    {
+      "brand": "全家",
+      "store_no": "020647",
+      "store_name": "全家宏勝店",
+      "address": "台北市松山區敦化北路１５３號１樓",
+      "tel": "02-25455887",
+      "distance": 115.11,
+      "total_qty": 2,
+      "categories": [
+        {
+          "name": "飯類主食",
+          "qty": 1
+        },
+        {
+          "name": "蔬果",
+          "qty": 1
+        }
+      ],
+      "items": [
+        {
+          "name": "二配起司控培根白醬焗烤飯",
+          "qty": 1,
+          "category": "飯類主食",
+          "sub_category": "１７西式主食二配"
+        },
+        {
+          "name": "有機鴻喜菇",
+          "qty": 1,
+          "category": "蔬果",
+          "sub_category": "根莖果（免稅）"
+        }
+      ]
+    },
+    {
+      "brand": "全家",
+      "store_no": "000576",
+      "store_name": "全家宏大店",
+      "address": "台北市松山區敦化北路１５５巷３號１樓",
+      "tel": "02-27183704",
+      "distance": 126.93,
+      "total_qty": 16,
+      "categories": [
+        {
+          "name": "飯糰手卷",
+          "qty": 13
+        },
+        {
+          "name": "飯類主食",
+          "qty": 3
+        }
+      ],
+      "items": [
+        {
+          "name": "星-二配雞肉飯飯糰",
+          "qty": 4,
+          "category": "飯糰手卷",
+          "sub_category": "飯糰二配"
+        },
+        {
+          "name": "星-二配鮪魚飯糰",
+          "qty": 2,
+          "category": "飯糰手卷",
+          "sub_category": "飯糰二配"
+        },
+        {
+          "name": "二配鹽蔥燒肉飯糰",
+          "qty": 2,
+          "category": "飯糰手卷",
+          "sub_category": "飯糰二配"
+        },
+        {
+          "name": "二配明太子龍蝦風味沙拉飯糰",
+          "qty": 2,
+          "category": "飯糰手卷",
+          "sub_category": "飯糰二配"
+        },
+        {
+          "name": "二配經典肉鬆飯糰",
+          "qty": 3,
+          "category": "飯糰手卷",
+          "sub_category": "飯糰二配"
+        },
+        {
+          "name": "星-二配港式香滑嫩蛋牛肉燴飯",
+          "qty": 1,
+          "category": "飯類主食",
+          "sub_category": "１７中式主食二配"
+        },
+        {
+          "name": "二配起司控培根白醬焗烤飯",
+          "qty": 2,
+          "category": "飯類主食",
+          "sub_category": "１７西式主食二配"
+        }
+      ]
+    },
+    {
+      "brand": "7-11",
+      "store_no": "254649",
+      "store_name": "7-11 敦北門市",
+      "distance": 129.41,
+      "total_qty": 7,
+      "categories": [
+        {
+          "name": "涼麵",
+          "qty": 1
+        },
+        {
+          "name": "湯麵",
+          "qty": 2
+        },
+        {
+          "name": "義大利麵",
+          "qty": 1
+        },
+        {
+          "name": "4℃加熱飯糰",
+          "qty": 1
+        },
+        {
+          "name": "燴飯",
+          "qty": 2
+        }
+      ],
+      "items": [
+        {
+          "name": "北海道蕎麥風味沾麵",
+          "qty": 1,
+          "category": "涼麵"
+        },
+        {
+          "name": "極饗-麻油雞麵線",
+          "qty": 1,
+          "category": "湯麵"
+        },
+        {
+          "name": "加賀屋-牛肉烏龍麵",
+          "qty": 1,
+          "category": "湯麵"
+        },
+        {
+          "name": "晶華-蒜香菲力牛義大利麵",
+          "qty": 1,
+          "category": "義大利麵"
+        },
+        {
+          "name": "加賀屋-海鮮天丼握便當",
+          "qty": 1,
+          "category": "4℃加熱飯糰"
+        },
+        {
+          "name": "爪哇咖哩豬肉飯",
+          "qty": 2,
+          "category": "燴飯"
+        }
+      ],
+      "address": "台北市松山區敦化北路149號1樓",
+      "tel": ""
+    },
+    {
+      "brand": "7-11",
+      "store_no": "280121",
+      "store_name": "7-11 上弘門市",
+      "distance": 159.7,
+      "total_qty": 2,
+      "categories": [
+        {
+          "name": "湯麵",
+          "qty": 2
+        }
+      ],
+      "items": [
+        {
+          "name": "一風堂-叉燒豚骨拉麵",
+          "qty": 1,
+          "category": "湯麵"
+        },
+        {
+          "name": "加賀屋-牛肉烏龍麵",
+          "qty": 1,
+          "category": "湯麵"
+        }
+      ],
+      "address": "台北市松山區敦化北路168號B2",
+      "tel": ""
+    },
+    {
+      "brand": "全家",
+      "store_no": "001417",
+      "store_name": "全家豐興店",
+      "address": "台北市松山區民生東路三段１３０巷５弄２２號",
+      "tel": "02-25471001",
+      "distance": 279.91,
+      "total_qty": 1,
+      "categories": [
+        {
+          "name": "飯類主食",
+          "qty": 1
+        }
+      ],
+      "items": [
+        {
+          "name": "星-二配香辣醬蒜味香腸蛋炒飯",
+          "qty": 1,
+          "category": "飯類主食",
+          "sub_category": "１７中式主食二配"
+        }
+      ]
+    },
+    {
+      "brand": "全家",
+      "store_no": "004267",
+      "store_name": "全家長城店",
+      "address": "台北市松山區敦化北路１２０巷８０號",
+      "tel": "02-27176687",
+      "distance": 298.44,
+      "total_qty": 7,
+      "categories": [
+        {
+          "name": "飯糰手卷",
+          "qty": 5
+        },
+        {
+          "name": "飯類主食",
+          "qty": 2
+        }
+      ],
+      "items": [
+        {
+          "name": "二配鹽蔥燒肉飯糰",
+          "qty": 1,
+          "category": "飯糰手卷",
+          "sub_category": "飯糰二配"
+        },
+        {
+          "name": "二配芝麻香鬆飯糰",
+          "qty": 1,
+          "category": "飯糰手卷",
+          "sub_category": "飯糰二配"
+        },
+        {
+          "name": "二配蔬食鮪魚飯糰",
+          "qty": 2,
+          "category": "飯糰手卷",
+          "sub_category": "飯糰二配"
+        },
+        {
+          "name": "二配油蔥G絲飯糰",
+          "qty": 1,
+          "category": "飯糰手卷",
+          "sub_category": "飯糰二配"
+        },
+        {
+          "name": "二配黃金雞排蘑菇白醬歐姆蛋飯",
+          "qty": 1,
+          "category": "飯類主食",
+          "sub_category": "１７西式主食二配"
+        },
+        {
+          "name": "二配乳酪燻腸紅醬焗飯",
+          "qty": 1,
+          "category": "飯類主食",
+          "sub_category": "１７西式主食二配"
+        }
+      ]
+    }
+  ]
+}

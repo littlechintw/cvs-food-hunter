@@ -1,0 +1,25 @@
+{
+  "location": {
+    "latitude": 25.0551024,
+    "longitude": 121.5489844,
+    "description": "我的位置"
+  },
+  "search": {
+    "max_distance_meters": 300,
+    "max_stores": 10
+  },
+  "seven_eleven": {
+    "enabled": true,
+    "mid_v": "W0_DiF4DlgU5OeQoRswrRcaaNHMWOL7K3ra3385ocZcv-bBOWySZvoUtH6j-7pjiccl0C5h30uRUNbJXsABCKMqiekSb7tdiBNdVq8Ro5jgk6sgvhZla5iV0H3-8dZfASc7AhEm85679LIK3hxN7Sam6D0LAnYK9Lb0DZhn7xeTeksB4IsBx4Msr_VI"
+  },
+  "family_mart": {
+    "enabled": true,
+    "project_code": "202106302"
+  },
+  "output": {
+    "save_json": true,
+    "json_file": "expired_food_results.json",
+    "save_txt": true,
+    "txt_file": "expired_food_report.txt"
+  }
+}
